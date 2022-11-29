@@ -1,3 +1,4 @@
+[Soumyajit's Resume#.pdf](https://github.com/Soumyajit9696/Soumyajit9696/files/10110325/Soumyajit.s.Resume.pdf)
 - 👋 Hi, I’m @Soumyajit Das
 - 👀 I’m interested in Web developement,Arduino,Python,3D modeling,graphic design
 - 🌱 I’m currently learning Bsc Physics honours
