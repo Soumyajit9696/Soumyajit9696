@@ -9,4 +9,6 @@
 Soumyajit9696/Soumyajit9696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/94384694/202857176-f0c2dc92-07b9-4404-816b-fe36ca829928.png)
+
+
+  ![icons8-python-96](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/06a3f00e-f42f-4bcd-b054-2630d5f667f3)
