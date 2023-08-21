@@ -26,7 +26,7 @@ Alongside this, my recent interests in the the world of coding have spiked in we
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumyajit9696&repo=My Portfolio)](https://github.com/Soumyajit9696/portfolio)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajit9696&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajit9696&theme=radical)](https://github.com/Soumyajit9696/portfolio)
 
 
 ---
