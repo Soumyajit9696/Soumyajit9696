@@ -61,6 +61,6 @@ You can click the Preview link to take a look at your changes.
   ![icons8-python-96](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/06a3f00e-f42f-4bcd-b054-2630d5f667f3)
 
 
-  ![icons8-python (1)](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/1e170337-f54b-4bd0-9029-d727008c7003)
-
   
+  
+![icons8-whatsapp](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/02aa0c7c-e016-4d46-80b6-ac03574d69e7)
