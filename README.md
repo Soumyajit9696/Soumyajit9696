@@ -1,5 +1,11 @@
 ### Hi there <img src = "https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif?raw=true" width = "30px">, I am Soumyajit Das
 
+- 👀 I’m interested in Web developement,Arduino,Python,3D modeling,graphic design
+- 🌱 I’m currently learning Bsc Physics honours
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- [Soumyajit's Resume#.pdf](https://github.com/Soumyajit9696/Soumyajit9696/files/10110325/Soumyajit.s.Resume.pdf)
+
 ---
 
 I am currently a **physics** student at Calcutta University, Asutosh College
@@ -38,12 +44,7 @@ Alongside this, my recent interests in the the world of coding have spiked in we
 
 
 
-[Soumyajit's Resume#.pdf](https://github.com/Soumyajit9696/Soumyajit9696/files/10110325/Soumyajit.s.Resume.pdf)
-- 👋 Hi, I’m @Soumyajit Das
-- 👀 I’m interested in Web developement,Arduino,Python,3D modeling,graphic design
-- 🌱 I’m currently learning Bsc Physics honours
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Soumyajit9696/Soumyajit9696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
