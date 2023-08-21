@@ -65,8 +65,8 @@ You can click the Preview link to take a look at your changes.
   ### My Teams
 
 
-  
-![Inter Miami CF](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/fd9e07a5-9e11-4b9a-8421-b2c12ecb8db7)
+  ![Inter_Miami_CF_logo](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/d8c559f3-9b54-421b-8d02-73c4599babca)
+
 
 ![Mohun_Bagan_A C _logo](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/c8e942c6-2560-42c0-8edc-fd97464aa47c)
 
