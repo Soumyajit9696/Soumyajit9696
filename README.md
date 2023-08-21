@@ -30,6 +30,7 @@ Alongside this, my recent interests in the the world of coding have spiked in we
 <img src= "https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" width="50px" height="50px">
 <img src= "https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" height= "50px" width= "50px">
 <img src= "https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" height= "50px" width= "50px">
+<img src= "https://skillicons.dev/icons?i=blender" alt="Blender" height= "50px" width= "50px">
 ---
 ## &#x1f4c8; My GitHub Stats
 ![Soumyajit's Github Stats](https://github-readme-stats.vercel.app/api?username=Soumyajit9696&show_icons=true&theme=transparent)
