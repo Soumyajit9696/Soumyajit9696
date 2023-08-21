@@ -10,6 +10,7 @@
 
 <a  href="https://www.youtube.com/channel/UC_b3gPxeJVySHvEhJPrDC3g" target="blank" href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube-alt.svg">YouTube</a> 
 
+- <a  href="https://icons8.com/icon/19318/youtube">YouTube</a> icon by <a href="https://icons8.com">Icons8 </a>
 ---
 
 I am currently a **physics** student at Calcutta University, Asutosh College
