@@ -20,7 +20,8 @@ Alongside this, my recent interests in the the world of coding have spiked in we
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = "HTML5" width = "50px" height = "50px"> 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original-wordmark.svg" alt = "Pycharm" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt = "VSCode" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = "CSS" height = "50px" width = "50px">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "JavaScript" width = "50px" height = "50px">
-https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png
+<img src = "https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt = "JavaScript" width = "50px" height = "50px">
+
 ---
 ## &#x1f4c8; My GitHub Stats
 ![Soumyajit's Github Stats](https://github-readme-stats.vercel.app/api?username=Soumyajit9696&show_icons=true&theme=transparent)
