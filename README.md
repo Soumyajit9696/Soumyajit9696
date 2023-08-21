@@ -43,7 +43,7 @@ Alongside this, my recent interests in the the world of coding have spiked in we
 
 
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhradeep10&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="subhradeep10" />
 ---
 
 
