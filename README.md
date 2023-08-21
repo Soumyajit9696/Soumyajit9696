@@ -24,12 +24,10 @@ Alongside this, my recent interests in the the world of coding have spiked in we
 ---
 ## &#x1f4c8; My GitHub Stats
 
-![Soumyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScientificArchisman&count_private=true&show_icons-true&theme=radical)
+![Soumyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyajit9696&count_private=true&show_icons-true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScientificArchisman&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajit9696&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
