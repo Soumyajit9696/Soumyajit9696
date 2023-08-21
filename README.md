@@ -1,12 +1,10 @@
 ### Hi there <img src = "https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif?raw=true" width = "30px">, I am Soumyajit Das
  - <img src="https://komarev.com/ghpvc/?username=Soumyajit9696&label=Profile%20views&color=0e75b6&style=flat" alt="Soumyajit9696" />                                
-- 👀 I’m interested in Web developement,Arduino,Python,3D modeling,graphic design
-- 🌱 I’m currently learning Bsc Physics honours
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web developement,Arduino,Python,3D modeling,graphic design, Animation
+- 🌱 I’m currently learning Bsc Physics, Python
+
 - [Soumyajit's Resume#.pdf](https://github.com/Soumyajit9696/Soumyajit9696/files/10110325/Soumyajit.s.Resume.pdf)
-- How to Reach me:
-- ![image]({https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white})
+- 📫 How to reach me ...
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/soumyajit-das-40a1851b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumyajit-das-40a1851b8/" height="30" width="40" /></a>
 
