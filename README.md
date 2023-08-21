@@ -8,6 +8,8 @@
 - How to Reach me:
 - ![image]({https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white})
 
+- <a href="https://linkedin.com/in/subhradeep-samanta-%f0%9f%87%ae%f0%9f%87%b3-85236a203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhradeep-samanta-%f0%9f%87%ae%f0%9f%87%b3-85236a203" height="30" width="40" /></a>
+
 ---
 
 I am currently a **physics** student at Calcutta University, Asutosh College
