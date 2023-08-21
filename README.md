@@ -70,6 +70,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Mohun_Bagan_A C _logo](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/c8e942c6-2560-42c0-8edc-fd97464aa47c)
 
-  
+  ![MIA](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/a09c2c5e-14d8-4d59-a6a6-fd007204d876)
+
   
 
