@@ -15,13 +15,14 @@ Alongside this, my recent interests in the the world of coding have spiked in we
 
 # 🧰 ToolBox
 
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt = "PPython" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt = "Pytorch" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt = "CSS" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt = "Pandas" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt = "Anaconda" height = "50px" width = "50px">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt = "PPython" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt = "CSS" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt = "Pandas" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt = "Anaconda" height = "50px" width = "50px">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt = "Latex" height = "50px" width = "50px">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = "HTML5" width = "50px" height = "50px"> 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original-wordmark.svg" alt = "Pycharm" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt = "VSCode" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = "CSS" height = "50px" width = "50px">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "JavaScript" width = "50px" height = "50px">
 <img src = "https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt = "SubLimeText" width = "50px" height = "50px">
 <img src= "https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" width="50px" height="50px">
+<img src= "https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" height= "50px" width= "50px"
 ---
 ## &#x1f4c8; My GitHub Stats
 ![Soumyajit's Github Stats](https://github-readme-stats.vercel.app/api?username=Soumyajit9696&show_icons=true&theme=transparent)
