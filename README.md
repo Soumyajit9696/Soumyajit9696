@@ -38,12 +38,15 @@ Alongside this, my recent interests in the the world of coding have spiked in we
 ---
 ## &#x1f4c8; My GitHub Stats
 ![Soumyajit's Github Stats](https://github-readme-stats.vercel.app/api?username=Soumyajit9696&show_icons=true&theme=transparent)
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumyajit9696&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="Soumyajit9696" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumyajit9696&repo=portfolio)](https://github.com/Soumyajit9696/portfolio)
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhradeep10&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="subhradeep10" />
+
 ---
 
 
