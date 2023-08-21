@@ -8,9 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/soumyajit-das-40a1851b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumyajit-das-40a1851b8/" height="30" width="40" /></a>
 
-<a  href="https://www.youtube.com/channel/UC_b3gPxeJVySHvEhJPrDC3g" target="blank" href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube-alt.svg">YouTube</a> 
 
-- <a  href="https://icons8.com/icon/19318/youtube">YouTube</a> icon by <a href="https://icons8.com">Icons8 </a>
 ---
 
 I am currently a **physics** student at Calcutta University, Asutosh College
@@ -63,6 +61,13 @@ You can click the Preview link to take a look at your changes.
 
   ![icons8-python-96](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/06a3f00e-f42f-4bcd-b054-2630d5f667f3)
 
+
+  ### My Teams
+![Inter Miami CF](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/e2d57b21-5a78-4504-ac24-3fdf4691cbc4)
+
+  
+
+![Mohun_Bagan_A C _logo](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/c8e942c6-2560-42c0-8edc-fd97464aa47c)
 
   
   
