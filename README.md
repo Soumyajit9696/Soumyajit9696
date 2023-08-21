@@ -23,6 +23,7 @@ Alongside this, my recent interests in the the world of coding have spiked in we
 
 ---
 ## &#x1f4c8; My GitHub Stats
+![Soumyajit's Github Stats](https://github-readme-stats.vercel.app/api?username=Soumyajit9696&show_icons=true&theme=transparent)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumyajit9696&repo=portfolio)](https://github.com/Soumyajit9696/portfolio)
 
