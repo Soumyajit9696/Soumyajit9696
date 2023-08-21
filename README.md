@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/soumyajit-das-40a1851b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumyajit-das-40a1851b8/" height="30" width="40" /></a>
 
-<a  href="https://www.youtube.com/channel/UC_b3gPxeJVySHvEhJPrDC3g" target="_blank" href="https://icons8.com/icon/19318/youtube">YouTube</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a  href="https://www.youtube.com/channel/UC_b3gPxeJVySHvEhJPrDC3g" target="_blank" href="https://img.icons8.com/color/50/youtube-play.png">YouTube</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 ---
 
