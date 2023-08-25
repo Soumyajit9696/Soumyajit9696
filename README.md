@@ -13,7 +13,7 @@
 
 I am currently a **physics** student at Calcutta University, Asutosh College
 
-I am moderately experienced with Python and .
+I am moderately experienced with Python.
 
 Alongside this, my recent interests in the the world of coding have spiked in web development and am in the midst of playing with the 3 most popular languages in web development - **HTML**, **CSS**, **JavaScript**
 
