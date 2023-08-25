@@ -1,5 +1,5 @@
 ### Hi there <img src = "https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif?raw=true" width = "30px">, I am Soumyajit Das
- /*- <img src="https://komarev.com/ghpvc/?username=Soumyajit9696&label=Profile%20views&color=0e75b6&style=flat" alt="Soumyajit9696" /> /*                               
+                             
 - 👀 I’m interested in Web developement,Arduino,Python,3D modeling,graphic design, Animation
 - 🌱 I’m currently learning Bsc Physics, Python
 
