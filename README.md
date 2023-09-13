@@ -36,12 +36,12 @@ Alongside this, my recent interests in the the world of coding have spiked in we
 <img src= "https://skillicons.dev/icons?i=blender" alt="Blender" height= "50px" width= "50px">
 ---
 ## &#x1f4c8; My GitHub Stats
-![Soumyajit's Github Stats](https://github-readme-stats.vercel.app/api?username=Soumyajit9696&show_icons=true&theme=transparent)
+<!---![Soumyajit's Github Stats](https://github-readme-stats.vercel.app/api?username=Soumyajit9696&show_icons=true&theme=transparent)-->
 
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Soumyajit9696&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="Soumyajit9696" />
 
-[ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumyajit9696&repo=portfolio)](https://github.com/Soumyajit9696/portfolio). ]:
+<!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumyajit9696&repo=portfolio)](https://github.com/Soumyajit9696/portfolio). -->
 
 
 
