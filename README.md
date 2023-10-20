@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Bsc Physics, Python
 
 - [Soumyajit's Resume#.pdf](https://github.com/Soumyajit9696/Soumyajit9696/files/10110325/Soumyajit.s.Resume.pdf)
-- [Resume] (https://github.com/Soumyajit9696/Soumyajit9696/blob/main/RESUME_SOUMYAJIT_DAS.pdf)
+- [Resume](https://github.com/Soumyajit9696/Soumyajit9696/blob/main/RESUME_SOUMYAJIT_DAS.pdf)
 - 
 - 📫 How to reach me ...
 <h3 align="left">Connect with me:</h3>
