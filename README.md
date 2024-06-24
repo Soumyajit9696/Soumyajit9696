@@ -41,15 +41,17 @@ Alongside this, my recent interests in the the world of coding have spiked in we
 <!---![Soumyajit's Github Stats](https://github-readme-stats.vercel.app/api?username=Soumyajit9696&show_icons=true&theme=transparent)-->
 
 
+
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Soumyajit9696&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="Soumyajit9696" />
 
 <!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumyajit9696&repo=portfolio)](https://github.com/Soumyajit9696/portfolio). -->
 
 
-
-
 ---
+## 📊 GitHub Stats
 
+![Soumyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyajit9696&show_icons=true&theme=radical)
+---
 
 
 
