@@ -10,7 +10,7 @@
 <!--<h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/soumyajit-das-40a1851b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumyajit-das-40a1851b8/" height="30" width="40" /></a> -->
 
-[![Website Badge](https://img.shields.io/badge/-My%20Website-000000?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://soumyajit9696.github.io/soumyajitdas96/)](https://soumyajit9696.github.io/soumyajitdas96/)
+[![Website Badge](https://img.shields.io/badge/-My%20Website-000000?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://soumyajit9696.github.io/soumyajitdas96/)](https://soumyajit-das.me/soumyajitdas)
 [![Google Site Badge](https://img.shields.io/badge/-Google%20Site-4285F4?style=flat-square&logo=Google&logoColor=white&link=https://sites.google.com/view/soumyajit-96/home)](https://sites.google.com/view/soumyajit-96/home)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyajit-das-40a1851b8/)](https://www.linkedin.com/in/soumyajit-das-40a1851b8/)
 [![Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&logo=Blogger&logoColor=white&link=https://sci-tech-science.blogspot.com/)](https://sci-tech-science.blogspot.com/)
