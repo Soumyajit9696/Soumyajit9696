@@ -3,9 +3,9 @@
 - 👀 I’m interested in Web developement,Arduino,Python,3D modeling,graphic design, Animation
 - 🌱 I’m currently learning Bsc Physics, Python
 
-- [Soumyajit's Resume#.pdf](https://github.com/Soumyajit9696/Soumyajit9696/files/10110325/Soumyajit.s.Resume.pdf)
-- [Resume#.pdf](https://github.com/Soumyajit9696/Soumyajit9696/files/10110325/RESUME_SOUMYAJIT_DAS.pdf)
 - 
+- [Soumyajit_Das_Resume.pdf](https://github.com/user-attachments/files/20366117/Soumyajit_Das_Resume.pdf)
+
 - 📫 How to reach me ...
 <!--<h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/soumyajit-das-40a1851b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumyajit-das-40a1851b8/" height="30" width="40" /></a> -->
