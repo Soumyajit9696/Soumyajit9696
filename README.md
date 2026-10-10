@@ -1,87 +1,170 @@
-### Hi there <img src = "https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif?raw=true" width = "30px">, I am Soumyajit Das
-                             
-- 👀 I’m interested in Web developement,Arduino,Python,3D modeling,graphic design, Animation
-- 🌱 I’m currently learning Bsc Physics, Python
+# Hi there, I'm Soumyajit Das 👋
 
-- 
-- [Soumyajit_Das_Resume.pdf](https://github.com/user-attachments/files/20366117/Soumyajit_Das_Resume.pdf)
+<img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif?raw=true" width="30px" alt="Waving hand">
 
-- 📫 How to reach me ...
-<!--<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/soumyajit-das-40a1851b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumyajit-das-40a1851b8/" height="30" width="40" /></a> -->
+### Physics Graduate | Computational Materials Science | Developer
 
-[![Website Badge](https://img.shields.io/badge/-My%20Website-000000?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://soumyajit9696.github.io/soumyajitdas96/)](https://soumyajit-das.me/soumyajitdas)
-[![Google Site Badge](https://img.shields.io/badge/-Google%20Site-4285F4?style=flat-square&logo=Google&logoColor=white&link=https://sites.google.com/view/soumyajit-96/home)](https://sites.google.com/view/soumyajit-96/home)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyajit-das-40a1851b8/)](https://www.linkedin.com/in/soumyajit-das-40a1851b8/)
-[![Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&logo=Blogger&logoColor=white&link=https://sci-tech-science.blogspot.com/)](https://sci-tech-science.blogspot.com/)
+I'm a physics graduate with an **M.Sc. in Physics from NIT Silchar**, interested in exploring the intersection of physics, computation, and software development.
 
----
+My work and interests span **computational materials science, density functional theory (DFT), condensed matter physics, scientific computing, and web development**. I enjoy turning scientific ideas into computational tools and building software that makes complex tasks easier.
 
-
-I am currently a **physics** student at Calcutta University, Asutosh College
-
-I am moderately experienced with Python.
-
-Alongside this, my recent interests in the the world of coding have spiked in web development and am in the midst of playing with the 3 most popular languages in web development - **HTML**, **CSS**, **JavaScript**
-
-
-
+- 🔬 Interested in computational physics, DFT, semiconductor physics, and 2D materials.
+- 💻 Building scientific software, web applications, and developer tools.
+- ⚛️ Exploring VASP, Wannier90, Python, and computational materials visualization.
+- 🌐 Developing projects with HTML, CSS, JavaScript, and Python.
+- 🛠️ Creator of **[Theorem](https://github.com/Soumyajit9696/theorem)** and **[VaspViz](https://github.com/Soumyajit9696/VaspViz)**.
+- 🎨 Interested in 3D modelling, graphic design, animation, and creative coding.
+- ⚽ Football fan.
 
 ---
 
-# 🧰 ToolBox
+## 🌐 Connect with me
 
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt = "PPython" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt = "CSS" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt = "Pandas" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt = "Anaconda" height = "50px" width = "50px">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt = "Latex" height = "50px" width = "50px">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = "HTML5" width = "50px" height = "50px"> 
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original-wordmark.svg" alt = "Pycharm" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt = "VSCode" width = "50px" height = "50px"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = "CSS" height = "50px" width = "50px">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "JavaScript" width = "50px" height = "50px">
-<img src = "https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt = "SubLimeText" width = "50px" height = "50px">
-<img src= "https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" width="50px" height="50px">
-<img src= "https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" height= "50px" width= "50px">
-<img src= "https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" height= "50px" width= "50px">
-<img src= "https://skillicons.dev/icons?i=blender" alt="Blender" height= "50px" width= "50px">
----
-## &#x1f4c8; My GitHub Stats
-<!---![Soumyajit's Github Stats](https://github-readme-stats.vercel.app/api?username=Soumyajit9696&show_icons=true&theme=transparent)-->
+<p align="left">
+  <a href="https://soumyajit9696.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-C2440C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/Soumyajit9696">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/soumyajit-das-40a1851b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://sci-tech-science.blogspot.com/">
+    <img src="https://img.shields.io/badge/Science%20Blog-Explore-F57D00?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
+  </a>
+</p>
 
-
-
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Soumyajit9696&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="Soumyajit9696" />  
-  
-## 📊 GitHub Stats
-![Soumyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyajit9696&show_icons=true&theme=radical)
-
-<!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumyajit9696&repo=portfolio)](https://github.com/Soumyajit9696/portfolio). -->
-
+📄 **Resume:** [View my resume](https://github.com/user-attachments/files/20366117/Soumyajit_Das_Resume.pdf)
 
 ---
 
+## 🔬 Research interests
+
+- **Computational Materials Science:** First-principles calculations and electronic structure.
+- **Density Functional Theory:** Structural, electronic, and optical properties of materials.
+- **Two-Dimensional Materials:** Transition-metal dichalcogenides (TMDCs), including ZrS₂ and ZrSe₂.
+- **Condensed Matter Physics:** Semiconductor physics, solid-state materials, and quantum phenomena.
+- **Scientific Computing:** Numerical methods, visualization, and Python-based research tools.
+- **Emerging interests:** Machine learning for materials science, MEMS/NEMS, and optoelectronic materials.
+
+## 🚀 Featured projects
+
+### [Theorem — LaTeX to Image Converter](https://github.com/Soumyajit9696/theorem)
+
+A LaTeX equation editor and image generator for converting mathematical expressions into high-quality graphics.
+
+- Live mathematical typesetting with MathJax.
+- Export to PNG, WebP, JPG, SVG, and PDF.
+- Transparent backgrounds and customizable equation styling.
+- Web application and Electron desktop edition.
+
+**Tech:** HTML · CSS · JavaScript · MathJax · Electron
+
+### [VaspViz — VASP Visualization Tool](https://github.com/Soumyajit9696/VaspViz)
+
+A Python desktop application for visualizing and analysing results from first-principles electronic-structure calculations.
+
+- Band structure and density of states visualization.
+- Projected electronic bands and scientific plotting.
+- Tools for post-processing computational materials data.
+
+**Tech:** Python · PyQt6 · Matplotlib · NumPy · VASP
+
+### [Personal Portfolio](https://soumyajit9696.github.io/)
+
+My portfolio website for presenting my background, projects, technical interests, and development work.
+
+**Tech:** HTML · CSS · JavaScript
+
+### [Science & Technology Blog](https://sci-tech-science.blogspot.com/)
+
+A blog for sharing science, physics, technology, and educational content.
+
 ---
 
+## 🧰 Tech stack & tools
 
+### Programming languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" alt="Python, C, HTML, CSS, JavaScript">
+</p>
 
+### Scientific computing & research
 
-<!---
-Soumyajit9696/Soumyajit9696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <img src="https://skillicons.dev/icons?i=anaconda,matlab" alt="Anaconda and MATLAB">
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/LaTeX-Typesetting-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/VASP-First--Principles%20Calculations-6C3483?style=flat-square" alt="VASP">
+  <img src="https://img.shields.io/badge/Wannier90-Electronic%20Structure-34495E?style=flat-square" alt="Wannier90">
+</p>
 
+### Development & design tools
 
-  ![icons8-python-96](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/06a3f00e-f42f-4bcd-b054-2630d5f667f3)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,arduino,blender,windows,linux" alt="Git, GitHub, VS Code, PyCharm, Arduino, Blender, Windows and Linux">
+</p>
 
+### Technologies I'm exploring
 
-  ### My Teams
+<p>
+  <img src="https://img.shields.io/badge/PyQt6-Desktop%20Applications-41CD52?style=flat-square" alt="PyQt6">
+  <img src="https://img.shields.io/badge/Streamlit-Data%20Applications-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/DFT-Computational%20Physics-5B4B8A?style=flat-square" alt="DFT">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploration-1F6FEB?style=flat-square" alt="Machine Learning">
+</p>
 
+---
 
-  ![Inter_Miami_CF_logo](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/d8c559f3-9b54-421b-8d02-73c4599babca)
+## 📊 GitHub statistics
 
+<div align="center">
 
-![Mohun_Bagan_A C _logo](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/c8e942c6-2560-42c0-8edc-fd97464aa47c)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Soumyajit9696&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Soumyajit's GitHub statistics">
 
- 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajit9696&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages">
 
-  ![Manchester City FC Logo (SVG) - Vector69Com](https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/df9b6209-d8fc-4f87-8cdb-9aa745d697e2)
+<img width="70%" src="https://streak-stats.demolab.com?user=Soumyajit9696&theme=transparent&hide_border=true" alt="GitHub contribution streak">
 
+</div>
 
+---
+
+## 🎓 Academic background
+
+- **M.Sc. Physics — NIT Silchar**  
+  Completed in May 2026.
+
+- **B.Sc. Physics (Honours) — University of Calcutta**  
+  2020–2023.
+
+My academic interests focus on understanding material properties through theoretical models, first-principles calculations, and computational tools.
+
+---
+
+## ⚽ Beyond code
+
+When I'm not working on physics or software, I enjoy experimenting with creative projects, exploring 3D modelling and graphic design, and following football.
+
+**Teams I support:**
+
+<p align="left">
+  <img src="https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/d8c559f3-9b54-421b-8d02-73c4599babca" height="65" alt="Inter Miami CF">
+  &nbsp;&nbsp;
+  <img src="https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/c8e942c6-2560-42c0-8edc-fd97464aa47c" height="65" alt="Mohun Bagan">
+  &nbsp;&nbsp;
+  <img src="https://github.com/Soumyajit9696/Soumyajit9696/assets/94384694/df9b6209-d8fc-4f87-8cdb-9aa745d697e2" height="65" alt="Manchester City">
+</p>
+
+---
+
+<div align="center">
+
+### *Exploring physics. Building tools. Turning ideas into code.*
+
+Thanks for visiting my profile!
+
+</div>
